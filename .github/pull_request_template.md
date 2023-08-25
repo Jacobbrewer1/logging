@@ -10,4 +10,3 @@ This closes # (issue)
 - [ ] For new code, I have added tests that prove my fix is effective or that my feature works.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
-- [ ] I have implemented monitoring for my changes if applicable.
